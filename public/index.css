@@ -1,0 +1,25 @@
+#leaderBox{
+    margin-top: 20px;
+}
+
+#playersBox{
+    margin-top: 35px;
+}
+
+.deleteUserButton{
+    margin-top: 15px;
+}
+
+.individual-userbox{
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 450px){
+    #addPlayerInput{
+        margin-bottom: 10px;
+    }
+
+    #currentLeader{
+        font-size: 16px;
+    }
+}
